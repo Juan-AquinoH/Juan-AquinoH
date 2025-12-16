@@ -1,43 +1,50 @@
+# 👋 Hi, I'm Juan Carlos Aquino
+### ASIC | SoC | Physical Design | Open-Source Silicon
 
-**Supported PVT Corners:**
-- FF / TT / SS
-- −40 °C / 25 °C / 100 °C
-- 1.60 V / 1.80 V / 1.95 V
+I'm a **semiconductor design engineer** focused on **RTL-to-GDSII ASIC design**, low-power systems, and **secure SoC architectures**.
 
----
-
-## 🔒 Reliability & Low-Power Design
-- Power-aware design methodology
-- Non-volatile data handling
-- Robust clock and reset strategy
-- Designed for safe recovery after power interruptions
+I work with **open-source EDA tools** and real silicon flows including **Caravel, OpenLane, and Sky130/GF180 PDKs**.
 
 ---
 
-## 🧪 Verification
-- RTL simulation
-- Cocotb-based testbenches
-- Functional and regression testing
+## 🧠 Areas of Expertise
+- RTL Design (SystemVerilog)
+- SoC Architecture
+- Physical Design (PnR, STA, DRC, LVS)
+- Low-Power & Reliability
+- Neuromorphic and Edge AI Hardware
+- Secure & Safety-Critical Designs
 
 ---
 
-## 🧰 Tools & Technologies
-- **SystemVerilog**
-- **Caravel**
-- **OpenLane**
-- **OpenROAD**
-- **Magic / KLayout**
-- **Cocotb**
-- **Git LFS** for large layout files
+## 🛠️ Tools & Technologies
+- **HDL:** SystemVerilog, Verilog
+- **ASIC Flow:** OpenLane, OpenROAD
+- **Verification:** Cocotb, Verilator
+- **PDK:** Sky130, GF180
+- **Layout:** Magic, KLayout
+- **Platforms:** Caravel (MPW)
 
 ---
 
-## 🎯 Target Applications
-- Portable medical devices
-- Secure data logging systems
-- Neuromorphic and edge AI SoCs
-- Low-power embedded systems
+## 🧩 Highlight Projects
+- 🔒 **Secure Logger SoC**
+  - RTL-to-GDSII open-source ASIC
+  - Power-failure resilient architecture
+- 🧠 **Neuromorphic_X1 Accelerator**
+  - Ultra-low-power event-based compute
+- ⚙️ **RISC-V based SoC experiments**
 
 ---
 
-## 📂 Repository Structure
+## 🎯 Interests
+- Open silicon
+- Tapeout-ready ASICs
+- Medical & safety-critical hardware
+- Edge AI accelerators
+
+---
+
+📫 **Contact**
+- GitHub: https://github.com/Juan-AquinoH
+
