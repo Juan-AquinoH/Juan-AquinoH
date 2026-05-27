@@ -1,50 +1,60 @@
-# 👋 Hi, I'm Juan Carlos Aquino
-### ASIC | SoC | Physical Design | Open-Source Silicon
+# Juan Carlos Aquino
 
-I'm a **semiconductor design engineer** focused on **RTL-to-GDSII ASIC design**, low-power systems, and **secure SoC architectures**.
+### ASIC · SoC · Physical Design · Open-Source Silicon
 
-I work with **open-source EDA tools** and real silicon flows including **Caravel, OpenLane, and Sky130/GF180 PDKs**.
-
----
-
-## 🧠 Areas of Expertise
-- RTL Design (SystemVerilog)
-- SoC Architecture
-- Physical Design (PnR, STA, DRC, LVS)
-- Low-Power & Reliability
-- Neuromorphic and Edge AI Hardware
-- Secure & Safety-Critical Designs
+Semiconductor design engineer focused on **RTL-to-GDSII ASIC development**, **secure SoC architectures**, and **low-power digital systems**.  
+I work with open-source EDA flows and silicon ecosystems such as **Caravel, OpenLane, Sky130, and GF180**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Core Expertise
+
+- RTL design in SystemVerilog and Verilog
+- SoC architecture and integration
+- Physical design: PnR, STA, DRC, LVS
+- Verification with Cocotb, Verilator, and Python
+- Open-source silicon flows and MPW tapeout
+- Secure, low-power, and safety-critical digital systems
+
+---
+
+## Tools & Flow
+
 - **HDL:** SystemVerilog, Verilog
-- **ASIC Flow:** OpenLane, OpenROAD
-- **Verification:** Cocotb, Verilator
+- **ASIC Flow:** OpenLane, OpenROAD, OpenSTA
+- **Verification:** Cocotb, Verilator, Python
 - **PDK:** Sky130, GF180
 - **Layout:** Magic, KLayout
-- **Platforms:** Caravel (MPW)
+- **Platforms:** Caravel, open-source MPW flows
 
 ---
 
-## 🧩 Highlight Projects
-- 🔒 **Secure Logger SoC**
-  - RTL-to-GDSII open-source ASIC
-  - Power-failure resilient architecture
-- 🧠 **Neuromorphic_X1 Accelerator**
-  - Ultra-low-power event-based compute
-- ⚙️ **RISC-V based SoC experiments**
+## Selected Projects
+
+- [Secure Edge IoT Event Logger on Caravel](https://github.com/Juan-AquinoH/Secure-Edge-IoT-Event-Logger-on-Caravel)  
+  Open-source RTL-to-GDSII ASIC with secure event logging, GPIO integration, and power-failure resilience.
+
+- [secure_logger_controller](https://github.com/Juan-AquinoH/secure_logger_controller)  
+  Reusable SystemVerilog controller IP for secure logging and SoC integration.
+
+- RISC-V based SoC experiments  
+  Custom peripherals and memory-mapped IO for open silicon exploration.
+
+- Neuromorphic_X1 accelerator  
+  Ultra-low-power event-based compute for edge AI applications.
 
 ---
 
-## 🎯 Interests
-- Open silicon
-- Tapeout-ready ASICs
-- Medical & safety-critical hardware
-- Edge AI accelerators
+## Focus Areas
+
+- Open silicon and tapeout-ready ASICs
+- Medical and safety-critical hardware
+- Edge AI and neuromorphic accelerators
+- Secure embedded architectures
 
 ---
 
-📫 **Contact**
-- GitHub: https://github.com/Juan-AquinoH
+## Contact
+
+- GitHub: [Juan-AquinoH](https://github.com/Juan-AquinoH)
 
